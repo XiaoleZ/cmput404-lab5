@@ -1,0 +1,10 @@
+Question 1: 
+What are some of the benefits of using a static site generator? 
+It is fast and simple.
+Fewer Server-Related Requirements.
+
+What are some disadvantages?
+
+Hard to modify.
+Real-Time Data is Unavailable and No User-Generated Content.
+
